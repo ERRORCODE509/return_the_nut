@@ -1,0 +1,11 @@
+[
+  {
+    "type": "MOD_INFO",
+    "id": "return_the_nut",
+    "name": "Return The Nut",
+    "authors": [ "ERROR_CODE"],
+    "description": "Returns unto us the nut that was lost.",
+    "category": "items",
+    "dependencies": [ "dda" ]
+  }
+]
